@@ -1,0 +1,102 @@
+{
+  "code": "6",
+  "name": "fed",
+  "registration_date": "1900-01-01",
+  "introducer_code": "2",
+  "l": [
+    {
+      "code": "7",
+      "name": "banana",
+      "registration_date": "1900-06-11",
+      "introducer_code": "6",
+      "l": [
+        {
+          "code": "9",
+          "name": "ted",
+          "registration_date": "1900-06-11",
+          "introducer_code": "2",
+          "l": [
+            {
+              "code": "13",
+              "name": "david",
+              "registration_date": "1900-06-11",
+              "introducer_code": "9"
+            }
+          ],
+          "r": [
+            {
+              "code": "14",
+              "name": "ben",
+              "registration_date": "1900-06-11",
+              "introducer_code": "9"
+            }
+          ]
+        }
+      ],
+      "r": [
+        {
+          "code": "10",
+          "name": "vix",
+          "registration_date": "1900-06-11",
+          "introducer_code": "1",
+          "l": [
+            {
+              "code": "15",
+              "name": "vix",
+              "registration_date": "1900-06-11",
+              "introducer_code": "5"
+            }
+          ],
+          "r": [
+            {
+              "code": "16",
+              "name": "vix",
+              "registration_date": "1900-06-11",
+              "introducer_code": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "r": [
+    {
+      "code": "8",
+      "name": "jam",
+      "registration_date": "1900-01-01",
+      "introducer_code": "1",
+      "l": [
+        {
+          "code": "11",
+          "name": "werry",
+          "registration_date": "1900-06-11",
+          "introducer_code": "8",
+          "l": [
+            {
+              "code": "17",
+              "name": "rap",
+              "registration_date": "1900-06-11",
+              "introducer_code": "11"
+            }
+          ],
+          "r": [
+            {
+              "code": "18",
+              "name": "vix",
+              "registration_date": "1900-06-11",
+              "introducer_code": "11"
+            }
+          ]
+        }
+      ],
+      "r": [
+        {
+          "code": "12",
+          "name": "vix",
+          "registration_date": "1900-06-11",
+          "introducer_code": "1"
+        }
+      ]
+    }
+  ]
+}
